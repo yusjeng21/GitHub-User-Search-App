@@ -106,7 +106,7 @@ https://api.github.com/users/{username}
 
 ## Live Demo
 
-https://github-user-search.vercel.app
+https://devfinder-yusjeng.vercel.app/
 
 ## Author
 
